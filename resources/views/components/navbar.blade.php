@@ -41,7 +41,7 @@
                 </li>
                 <!-- WhatsApp Chat Button -->
                 <li class="mt-4 md:mt-0">
-                    <a href="https://wa.me/+62813-8432-9600" target="_blank" class="flex items-center space-x-2 py-2 px-4 text-white bg-green-400 rounded-full hover:bg-green-500 transition-all duration-300">
+                    <a href="https://wa.me/+6281384329600" target="_blank" class="flex items-center space-x-2 py-2 px-4 text-white bg-green-400 rounded-full hover:bg-green-500 transition-all duration-300">
                         <img width="24" height="24" src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/24/FFFFFF/external-Whatsapp-social-media-tanah-basah-basic-outline-tanah-basah.png" alt="external-Whatsapp-social-media-tanah-basah-basic-outline-tanah-basah"/>
                         <span>Hubungi Kami</span>
                     </a>
